@@ -1,4 +1,4 @@
-# Podcast Generator Project Brief
+# Podcast Generator Project Brief  !!!!!!!!!!!!!!
 
 <img src="./assets/podcast.png" alt="PodAI Creator Logo" width="750">
 
