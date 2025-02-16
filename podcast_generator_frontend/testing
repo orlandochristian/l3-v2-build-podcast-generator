@@ -1,0 +1,7 @@
+curl -X POST "https://api.elevenlabs.io/v1/text-to-speech/JBFqnCBsd6RMkjVDRZzb/stream?output_format=mp3_44100_128" \
+     -H "xi-api-key:sk_c0955525c1048a5cfb41a37f427fbee18731ad0d54c62a35" \
+     -H "Content-Type: application/json" \
+     -d '{
+  "text": "The first move is what sets everything in motion.",
+  "model_id": "eleven_multilingual_v2"
+}'
